@@ -1,14 +1,10 @@
-name: Problem1
+name: ETA?
 points: 10
 description: |
-  #### this is desc1
+  #### ETA?
 
-  do we have **markdown** _working_?
+  If this script were to finish, what would it output?
 
-  ```python
-  def foo():
-    pass
-  ```
 
 hint: |
-  hint3
+  Try doing a bit of dynamic binary analysis.
