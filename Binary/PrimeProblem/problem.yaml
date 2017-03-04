@@ -1,0 +1,10 @@
+name: ETA?
+points: 10
+description: |
+  #### ETA?
+
+  If this script were to finish, what would it output?
+
+
+hint: |
+  Try doing a bit of dynamic binary analysis.
