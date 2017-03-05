@@ -1,8 +1,0 @@
-name: Exploring the Binary!!!
-points: 10
-description: |
-  #### Binary 1
-  Simple problem. Executing does nothing, but there is a flag in the executable.
-
-hint: |
-  Well running it does nothing, maybe try looking inside?
