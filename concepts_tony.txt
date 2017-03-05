@@ -15,3 +15,12 @@
 - Web: I believe picoCTF did this at some point. Simply hide a flag somewhere on the PACTF website itself. Or maybe hide it on our status page at pactf.statuspage.io
 
 - Web: Cloudflare business customers can upload custom SSL certificates. Add a certificate in which an additional domain, where the flag is hosted, is present in the Subject Alt. Name field of the certificate.
+
+- Misc: Email spoofing. Send an email to "problem-flag@pactf.com" with "admin_i_need_a_flag@andover.edu" as from address and your email as reply-to address. Our system will automatically send you the flag!
+
+- Crypto: We have a faulty pseudo random number generator running on our server! Predict the numbers we will generate, after observing some. Connect through nc to our server and give us quick & accurate predictions, and we will give you the flag!
+
+- Misc: We provide to you a file with simulated Wi-Fi traffic intercepted by Wireshark. Find the HTTP transmissions, and see if you can find the insecurely transmitted password (flag)!
+
+- Crypto: Produce two files with identical SHA1 hashes, but different SHA256 hashes! Possible thanks to https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html. One easy solution is to use https://alf.nu/SHA1.
+
