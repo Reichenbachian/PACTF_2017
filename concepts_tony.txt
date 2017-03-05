@@ -22,5 +22,5 @@
 
 - Misc: We provide to you a file with simulated Wi-Fi traffic intercepted by Wireshark. Find the HTTP transmissions, and see if you can find the insecurely transmitted password (flag)!
 
-- Crypto: Produce two files with identical SHA1 hashes, but different SHA256 hashes! Possible thanks to https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html. One easy solution is to use https://alf.nu/SHA1.
+- Crypto: Produce two files with identical SHA1 hashes, but different SHA256 hashes! Possible thanks to https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html. File submitted must not be the same as the ones published by Google. One easy solution is to use https://alf.nu/SHA1. 
 
