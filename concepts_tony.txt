@@ -1,0 +1,26 @@
+# This is a list of working concepts for problems that may or may not be implemented.
+
+- Web: Wikipedia Edit History (similar to last year's, but make it different and perhaps more difficult, such as by encrypting with caesar at the same time and/or embedding in user/talk space instead of article.)
+
+- Crypto: Google Auth OTP. Problem gives an TOTP seed and tells participant that "this is the one code that makes all the codes." Then ask participant to submit a TOTP token valid at the time of submission (+/- 1 minute).
+
+- Web: Embed flag in Bitcoin blockchain as OP_RETURN in a transaction. Came up with this idea with Miles.
+
+- Crypto: Caesar. Got to have the caesar, or some other type of introductory crypto problem.
+
+- Crypto: Classic one time pad re-use problem. Crack ciphertext for flag!
+
+- Web: Register domain name and keep the domain name secret as a flag. (Example: pactf-this-cannot-be-a-flag-can-it.com) Then submit it to Chromium's HSTS preload list so that it is included in Chrome's public source code. Problem hints at participants that the domain name is hidden in Chromium's source code.
+
+- Web: I believe picoCTF did this at some point. Simply hide a flag somewhere on the PACTF website itself. Or maybe hide it on our status page at pactf.statuspage.io
+
+- Web: Cloudflare business customers can upload custom SSL certificates. Add a certificate in which an additional domain, where the flag is hosted, is present in the Subject Alt. Name field of the certificate.
+
+- Misc: Email spoofing. Send an email to "problem-flag@pactf.com" with "admin_i_need_a_flag@andover.edu" as from address and your email as reply-to address. Our system will automatically send you the flag!
+
+- Crypto: We have a faulty pseudo random number generator running on our server! Predict the numbers we will generate, after observing some. Connect through nc to our server and give us quick & accurate predictions, and we will give you the flag!
+
+- Misc: We provide to you a file with simulated Wi-Fi traffic intercepted by Wireshark. Find the HTTP transmissions, and see if you can find the insecurely transmitted password (flag)!
+
+- Crypto: Produce two files with identical SHA1 hashes, but different SHA256 hashes! Possible thanks to https://security.googleblog.com/2017/02/announcing-first-sha1-collision.html. File submitted must not be the same as the ones published by Google. One easy solution is to use https://alf.nu/SHA1. 
+
