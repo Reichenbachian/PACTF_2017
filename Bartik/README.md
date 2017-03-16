@@ -1,7 +1,7 @@
 ## State of Round 2
 
 | Problem # | Points | Category | Name | State |
-| ----|------------|---------|-------- |
+|---|---|---|---|---|
 | 1 | -10 pts  | None | The Gamble | Unchecked |
 | 2 | 25 pts  | Crypto     | Substitute Teacher | Unchecked |
 | 3 | 30 pts  | Crypto  | Dino. Never Forget | Unchecked |
