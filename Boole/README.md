@@ -1,7 +1,7 @@
 ## State of Round 1
 
 | Problem # | Points | Category | Name | State |
-| ----|------------|---------|-------- |
+|---|---|---|---|---|
 | 1 | 10 pts | Binary  | EasyBinary | Unchecked |
 | 2 | 10 pts  | Web     | Open Sourcery | Unchecked |
 | 3 | 25 pts  | Crypto  | Substitute Teacher | Unchecked |
