@@ -2,11 +2,11 @@
 
 - Web: Wikipedia Edit History (similar to last year's, but make it different and perhaps more difficult, such as by encrypting with caesar at the same time and/or embedding in user/talk space instead of article.) - IMPLEMENTED
 
-- Crypto: Google Auth OTP. Problem gives an TOTP seed and tells participant that "this is the one code that makes all the codes." Then ask participant to submit a TOTP token valid at the time of submission (+/- 1 minute).
+- Crypto: Google Auth OTP. Problem gives an TOTP seed and tells participant that "this is the one code that makes all the codes." Then ask participant to submit a TOTP token valid at the time of submission (+/- 1 minute). - IMPLEMENTED, slightly differently
 
-- Web: Embed flag in Bitcoin blockchain as OP_RETURN in a transaction. Came up with this idea with Miles.
+- Web: Embed flag in Bitcoin blockchain as OP_RETURN in a transaction. Came up with this idea with Miles. - IMPLEMENTED
 
-- Crypto: Caesar. Got to have the caesar, or some other type of introductory crypto problem.
+- Crypto: Caesar. Got to have the caesar, or some other type of introductory crypto problem. - IMPLEMENTED
 
 - Crypto: Classic one time pad re-use problem. Crack ciphertext for flag!
 
