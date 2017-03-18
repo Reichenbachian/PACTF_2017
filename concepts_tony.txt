@@ -1,6 +1,6 @@
 # This is a list of working concepts for problems that may or may not be implemented.
 
-- Web: Wikipedia Edit History (similar to last year's, but make it different and perhaps more difficult, such as by encrypting with caesar at the same time and/or embedding in user/talk space instead of article.)
+- Web: Wikipedia Edit History (similar to last year's, but make it different and perhaps more difficult, such as by encrypting with caesar at the same time and/or embedding in user/talk space instead of article.) - IMPLEMENTED
 
 - Crypto: Google Auth OTP. Problem gives an TOTP seed and tells participant that "this is the one code that makes all the codes." Then ask participant to submit a TOTP token valid at the time of submission (+/- 1 minute).
 
