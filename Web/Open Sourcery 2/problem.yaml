@@ -1,0 +1,4 @@
+name: Open Sourcery 2
+points: 40
+description: The latest version of Google Chrome knows the flag. Maybe you can get the source from the binary and find out.
+hint: You *could* decompile it. But what's this relationship between Chrome and Chromium I heard?
