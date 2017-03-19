@@ -12,7 +12,7 @@
 
 - Web: Register domain name and keep the domain name secret as a flag. (Example: pactf-this-cannot-be-a-flag-can-it.com) Then submit it to Chromium's HSTS preload list so that it is included in Chrome's public source code. Problem hints at participants that the domain name is hidden in Chromium's source code. - IMPLEMENTING, pending Chrome source inclusion
 
-- Web: I believe picoCTF did this at some point. Simply hide a flag somewhere on the PACTF website itself. Or maybe hide it on our status page at pactf.statuspage.io
+- Web: I believe picoCTF did this at some point. Simply hide a flag somewhere on the PACTF website itself. Or maybe hide it on our status page at pactf.statuspage.io - IMPLEMENTED
 
 - Web: Cloudflare business customers can upload custom SSL certificates. Add a certificate in which an additional domain, where the flag is hosted, is present in the Subject Alt. Name field of the certificate. - IMPLEMENTED
 
