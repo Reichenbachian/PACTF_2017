@@ -1,5 +1,5 @@
-name: 9 Least Significant Bits
-points: 20
+name: Bitesized
+points: 80
 description: |
     There's an image of some trees here. I bet the image contains more than trees, though.
     {% ctfstatic 'trees.png' %}
