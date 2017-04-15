@@ -1,5 +1,5 @@
 def grade(key, submission):
-    if submission == 'veni_vidi_vici':
-        return True, "Nice job!"
+    if submission == 'only_slightly_better_than_caesar':
+        return True, 'Substitution accepted!'
     else:
-        return False, 'Keep shifting'
+        return False, 'Substitute this flag for something else...'

@@ -1,7 +1,10 @@
-name: Caesar
-points: 5
+name: Substitute Teacher
+points: 50
 description: |
-  I found a message from Julius. Can you get the flag?
-  Huk aopz pz aol mshn: clup_cpkp_cpjp
+   #### Substitute Teacher
+   Mr. Michael S. "Mike" Rogers is the substitute teacher for the day, but he is having trouble deciphering the secret message that was left for him by the teacher.
+   Mr. Rogers knows the note is in English, but that's about all. Can you help him?
+   {% ctfstatic 'ENCRYPTED.txt' %}
+
 hint: |
-  Look up a Caesar cipher
+  Frequency analysis.
