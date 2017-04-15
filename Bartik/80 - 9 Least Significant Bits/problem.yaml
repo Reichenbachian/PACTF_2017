@@ -2,6 +2,6 @@ name: Bitesized
 points: 80
 description: |
     There's an image of some trees here. I bet the image contains more than trees, though.
-    {% ctfstatic 'trees.png' %}
+    [trees.png]({% ctflexstatic 'trees.png' %})
 hint: |
     Try mod 8?

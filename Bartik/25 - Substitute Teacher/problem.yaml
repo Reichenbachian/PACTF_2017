@@ -4,7 +4,11 @@ description: |
    #### Substitute Teacher
    Mr. Michael S. "Mike" Rogers is the substitute teacher for the day, but he is having trouble deciphering the secret message that was left for him by the teacher.
    Mr. Rogers knows the note is in English, but that's about all. Can you help him?
-   {% ctfstatic 'ENCRYPTED.txt' %}
+   [ENCRYPTED.txt]({% ctflexstatic 'ENCRYPTED.txt' %})
 
 hint: |
   Frequency analysis.
+
+deps:
+    probs:
+        - f4c5631c-0680-42e0-863e-8541eb9b05cd
