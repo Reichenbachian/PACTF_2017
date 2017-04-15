@@ -1,3 +1,0 @@
-Git merge markers would compile in Brainfuck.
-
-- Yatharth

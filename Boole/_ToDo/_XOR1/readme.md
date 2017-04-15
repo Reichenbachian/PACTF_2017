@@ -1,1 +1,0 @@
-This is an XOR cipher. For this one, you can just try the various one digit keys until it works (you can also use that fact that underscores appear in the flag, and try to match characters like that to be a little smarter)

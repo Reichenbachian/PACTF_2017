@@ -1,8 +1,0 @@
-name: RSA256
-points: 80
-description: |
-   According to [Wikipedia](https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Integer_factorization_and_RSA_problem), RSA 256 can be factored on modest hardware in 35 minutes.
-   Given the encoded public key `MDwwDQYJKoZIhvcNAQEBBQADKwAwKAIhAIl47p5SrV3uMTsUAbwE0E+j+QynAY/CVq/Gf8IAOQy7AgMBAAE=`, what is the similarly-encoded private key? The first 32 characters is the flag.
-
-hint: |
-  And apparently YAFU can do it in 103 seconds!
