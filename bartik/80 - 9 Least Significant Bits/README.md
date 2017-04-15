@@ -1,0 +1,1 @@
+The 3 least significant bits from each color channel form an image with the text `dont_miss_the_flag_for_the_trees`, which is the flag. Each color channel should be multiplied by 32 for the text to be visible.

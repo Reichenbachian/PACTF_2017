@@ -1,0 +1,9 @@
+name: ETA?
+points: 60
+description: |
+  ### ETA?
+  If this script were to finish, what would it output?
+  [a.out]({% ctflexstatic "a.out" %})
+
+hint: |
+  Try doing a bit of dynamic binary analysis. Read the registers!

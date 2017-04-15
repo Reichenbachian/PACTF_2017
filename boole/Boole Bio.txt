@@ -1,0 +1,6 @@
+George Boole was an English mathematician and philosopher, best known for his invention of Boolean algebra. 
+He was born in England in 1815, and had little education beyond primary school. Despite this, at age 16 Boole got a junior teaching position to provide for his family.
+He created his own school at age 19, and over the years began to self-study and write papers on algebra. This gained him enough recognition to be appointed a professor of mathematics at Queen's College, Cork.
+While there, Boole wrote a number of books and papers on differential equations, analysis, probability, and most famously logic. His work laid the foundations for what we know today as Boolean algebra. In 1864, Boole passed away from an illness induced by walking three miles in the heavy rain and lecturing in his wet clothes.
+
+While Boole would have fancied himself a philosopher (among the likes of Aristotle and Plato), he is remembered as a great mathematician who created the theory on which all of modern computing is based.

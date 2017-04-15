@@ -1,0 +1,9 @@
+name: Visual Words
+points: 70
+description: |
+   #### Visual Words
+   Some of us are visual learners. Some of us learn best from texts. I've found the
+   perfect [combination]({% ctflexstatic "test.png" %})! It was a bit dark though, so I had to make it brighter by some factor.
+
+hint: |
+  Number, words, colors, data. It's all really just numbers and math right?
