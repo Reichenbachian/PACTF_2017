@@ -1,5 +1,5 @@
 name: Authorization of Time
-points: 70
+points: 55
 description: |
    {% ctfstatic 'qr.png' %}.
    `1489798809000`.
