@@ -1,10 +1,9 @@
 name: ETA?
 points: 60
 description: |
-  #### ETA?
-
+  ### ETA?
   If this script were to finish, what would it output?
-
+  {% ctfstatic "test.cpp" %}
 
 hint: |
   Try doing a bit of dynamic binary analysis. Read the registers!
