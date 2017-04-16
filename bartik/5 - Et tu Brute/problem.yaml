@@ -2,6 +2,6 @@ name: Caesar
 points: 5
 description: |
   I found a message from Julius. Can you get the flag?
-  Huk aopz pz aol mshn: clup_cpkp_cpjp
+  Huk aopz pz aol mshn: clup\_cpkp\_cpjp
 hint: |
   Look up a Caesar cipher
