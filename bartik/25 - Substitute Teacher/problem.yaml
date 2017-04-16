@@ -1,7 +1,6 @@
 name: Substitute Teacher
 points: 25
 description: |
-   #### Substitute Teacher
    Mr. Michael S. "Mike" Rogers is the substitute teacher for the day, but he is having trouble deciphering the secret message that was left for him by the teacher.
    Mr. Rogers knows the note is in English, but that's about all. Can you help him?
    [ENCRYPTED.txt]({% ctflexstatic 'ENCRYPTED.txt' %})
