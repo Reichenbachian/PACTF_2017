@@ -15,6 +15,6 @@ for y in range(imageHeight):
 	for x in range(imageWidth):
 		pix[x,y] = (ord(daHex[imageIndex])*2, ord(daHex[imageIndex+1])*2, ord(daHex[imageIndex+2])*2)
 		imageIndex+=3
-		imageIndex%=len(12)
+		imageIndex%=len(daHex)
 
 im.save("test.png", "PNG")
