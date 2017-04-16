@@ -6,7 +6,7 @@ Huk aopz pz aol mshn: {}
 """
 
 HINT = """
-Look up a Caesar cipher
+Look up what a Caesar cipher is. Can you make sense of the encrypted text above? Once you do, enter the ‘flag’ in the text box below and check if you’re right!    
 """
 
 ROT_LEVEL = 7
