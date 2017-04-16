@@ -1,7 +1,6 @@
 name: ETA?
 points: 60
 description: |
-  ### ETA?
   If this script were to finish, what would it output?
   [a.out]({% ctflexstatic "a.out" %})
 
