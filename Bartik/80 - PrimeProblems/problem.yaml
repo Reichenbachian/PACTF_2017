@@ -1,0 +1,8 @@
+name: ETA?
+points: 60
+description: |
+  If this script were to finish, what would it output?
+  [MacOS]({% ctflexstatic "mac.out" %}) [Linux]({% ctflexstatic "linux.out" %})
+
+hint: |
+  Try doing a bit of dynamic binary analysis. Read the registers!
