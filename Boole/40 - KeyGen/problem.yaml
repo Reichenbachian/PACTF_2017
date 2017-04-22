@@ -2,7 +2,7 @@ name: PACTF DRM
 points: 40
 description: |
    #### PACTF DRM
-   
+   This is our own custom DRM(Digital Rights Management). Watch out, it's very protective.
 
 hint: |
-  
+  You'll need to somehow make it change its mind?
