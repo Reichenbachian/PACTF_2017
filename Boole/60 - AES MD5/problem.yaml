@@ -1,0 +1,8 @@
+name: Hash Killer
+points: 60
+description: |
+   #### Qu'est que c'est?
+   We were clearing out the old server and came across a really weird [file]({% ctflexstatic 'hashes.txt' %})...
+
+hint: |
+  Did someone say MD5? And that last line seems different from the rest...

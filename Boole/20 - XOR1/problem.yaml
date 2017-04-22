@@ -1,0 +1,6 @@
+name: XOR 1
+points: 20
+description: |
+  My friend Miles sent me a secret message. He said he encoded it with an XOR cipher. Can you figure out what his message "KGZFK\qZFG]qA\qZFOZ" means?
+hint: |
+  The key is only one digit long

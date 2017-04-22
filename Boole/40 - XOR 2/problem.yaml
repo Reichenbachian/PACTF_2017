@@ -1,0 +1,7 @@
+name: XOR 2
+points: 40
+description: |
+  Miles just sent me a really cool article to read! Unfortunately, he encrypted it before he sent it to me. Can you crack the code for me so I can read the article?
+  {% ctflexstatic 'Article.txt' %}
+hint: |
+  Did you know that in typical English writing, a character is the same as the one k characters in front of it about 8% of the time, regardless of k? 
