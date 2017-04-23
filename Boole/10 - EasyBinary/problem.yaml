@@ -2,7 +2,7 @@ name: Exploring the Binary!!!
 points: 10
 description: |
   #### Binary 1
-  Why doesn't {% ctfstatic "a.out" %} print!! Did I forget to put in the print statement when I compiled?
+  Why doesn't [this file]({% ctflexstatic "a.out" %}) print!! Did I forget to put in the print statement when I compiled?
 
 hint: |
   Well running it does nothing, maybe try looking inside?
