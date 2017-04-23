@@ -1,4 +1,4 @@
 name: Open Sourcery 2
 points: 40
-description: The latest version of Google Chrome knows the flag. Maybe you can get the source from the binary and find out.
-hint: You *could* decompile it. But what's this relationship between Chrome and Chromium I heard?
+description: There are many strings in the source code of the latest Google Chrome. Some of the strings contain `pactf`. Find the one that starts with `i`, ends with `e`, and also contains the letter `v`.
+hint: Maybe you *could* get the source from the binary. But what's this relationship between Chrome and Chromium I heard? Also, just so you know, this flag doesn't have the string `flag` in or around it.
