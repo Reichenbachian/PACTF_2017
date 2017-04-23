@@ -1,4 +1,4 @@
 name: Time Travel
 points: 10
-description: We have a [status page](https://pactf.statuspage.io/). It gives you information when there is an issue with our site!
-hint: We had the same status page last year, for PACTF 2016.
+description: Our website links to many webpages. Once upon a time, one of them displayed the flag.
+hint: PACTF did not exist before 2015.
