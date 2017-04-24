@@ -2,8 +2,8 @@ name: PACTF DRM
 points: 40
 description: |
    #### PACTF DRM
-   The flag is in ["encrypted.txt"]{% ctflexstatic "encrypted.txt" %}.
-   You also get the [decoder software]{% ctflexstatic "a.out"%}. Unofrtunately,
+   The flag is in ["encrypted.txt"]({% ctflexstatic "encrypted.txt" %}).
+   You also get the [decoder software]({% ctflexstatic "a.out"%}). Unfortunately,
    the software is protected by its own custom DRM(Digital Rights Management).
    ...And it's very protective about its things.
 
