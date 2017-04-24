@@ -2,10 +2,10 @@ import sys
 import itertools
 import hashlib
 
-daHash = "6b75a5b332f76d024104efa5e3e4f8ed"
+daHash = "1b657b7fe26eda5b3c1309d340f1674d"
 for i in range(1, 100):
 	print("Trying", i, "character...")
-	for x in itertools.product(("a", "$"), repeat=i):
+	for x in itertools.product(("a", "b", "c"), repeat=i):
 		x = str(''.join(x))
 		m = hashlib.md5()
 		m.update(x.encode('utf'))
